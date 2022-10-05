@@ -7,3 +7,9 @@ Repo for models and tests
 ```
 docker run --rm -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "${PWD}":/home/jovyan/ jupyter/datascience-notebook:33add21fab64
 ```
+
+# Notebooks of Stydies from kaagle
+
+[MAE](/kaagle/home-data/house%20model%20mean%20absolute%20error%20-%20MAE.ipynb)
+
+[Underfitting and Overfitting](/kaagle/home-data/Underfitting%20and%20Overfitting.ipynb)
